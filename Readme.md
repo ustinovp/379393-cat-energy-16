@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Павел Устинов](https://up.htmlacademy.ru/adaptive/16/user/379393).
-* Наставник: `Неизвестно`.
+* Наставник: `Отсутствует`.
 
 ---
 
